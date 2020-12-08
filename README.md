@@ -7,3 +7,4 @@ Displays all space mission from the US Space Center/NASA. Displays all the detai
 * Navigation Links
 * Custom scrollable layouts
 * More modifiers & components like ``layoutPriority`` & ``GeometryReader``
+* Added predicates in ``ForEach``
